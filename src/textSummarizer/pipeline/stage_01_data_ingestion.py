@@ -1,5 +1,5 @@
 from textSummarizer.config.configuration import ConfigurationManager
-from textSummarizer.components.data_ingestion import DataIngestion # type: ignore
+from textSummarizer.conponents.data_ingestion import DataIngestion # type: ignore
 from textSummarizer.logging import logger
 
 
